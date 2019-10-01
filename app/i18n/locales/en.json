@@ -1,0 +1,30 @@
+{
+  "appName": "Tsur",
+  "camera": "Camera",
+  "cancel": "Cancel",
+  "checkConnection": "No internet connection found. \nCheck your connection.",
+  "country": "country",
+  "email": "Email",
+  "error": {
+    "timeOutConnection": "Connection timeout. Please try again later."
+  },
+  "forgetPass": "Forget Password ?",
+  "gallery": "Gallery",
+  "haveAccount": "Have Account ?",
+  "name": "Name",
+  "login": "Login",
+  "loading": "Loading ...",
+  "oops": "Oops!",
+  "password": "Password",
+  "phoneNumber": "Phone number",
+  "pleaseTryAgain": "Please try again",
+  "rememberMe": "Remember me",
+  "signUp":  "Register",
+  "selectDate": "Select Date : ",
+  "selectFrom": "Select From : ",
+  "submit": "Submit",
+  "tryAgain": "Try again",
+  "update": "Update",
+  "updateBody": "Please update the application to the new version, \n to get the new contents",
+  "updateTitle": "Update"
+}
